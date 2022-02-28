@@ -1,0 +1,9 @@
+# Directories and files to ignore
+_build
+deps
+rel/*
+Dockerfile
+.git
+.gitignore
+erl_crash.dump
+.elixir_ls
